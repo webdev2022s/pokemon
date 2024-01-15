@@ -1,0 +1,21 @@
+.Pokemon {
+  border: 1px solid black;
+  margin-bottom: 1rem;
+  display: inline-block;
+  margin-left: 10px;
+  overflow: hidden;
+  width: 20%;
+  aspect-ratio: 1/1;
+}
+
+.Pokemon img {
+  width: 50%;
+  padding: 25% 25%;
+}
+
+.Pokemon h1 {
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  text-align: center;
+  line-height: 10;
+}
